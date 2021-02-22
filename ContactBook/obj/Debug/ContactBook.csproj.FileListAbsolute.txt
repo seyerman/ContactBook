@@ -1,0 +1,11 @@
+C:\Users\seyer\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\seyer\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\seyer\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csprojAssemblyReference.cache
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Gui.AddContact.resources
+C:\Users\seyer\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Gui.ContactBookWindow.resources
